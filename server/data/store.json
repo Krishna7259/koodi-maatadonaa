@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "uid": "koodi_test_user_alice",
+      "phoneNumber": "+91 98765 43210",
+      "displayName": "Alice Sharma",
+      "photoURL": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+      "about": "Hey there! I am using Koodi Maatadona 💬",
+      "isOnline": true
+    },
+    {
+      "uid": "koodi_test_user_bob",
+      "phoneNumber": "+91 98765 43211",
+      "displayName": "Bob Patel",
+      "photoURL": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "about": "Working remotely from Bengaluru 🚀",
+      "isOnline": true
+    },
+    {
+      "uid": "user_917259220116",
+      "phoneNumber": "+917259220116",
+      "displayName": "User 0116",
+      "photoURL": "",
+      "about": "Hey there! I am using Koodi Maatadona 💬",
+      "isOnline": true
+    }
+  ],
+  "chats": [],
+  "messages": {
+    "koodi_test_user_alice_koodi_test_user_bob": [
+      {
+        "id": "msg_1794244998423_4f0q5",
+        "chatId": "koodi_test_user_alice_koodi_test_user_bob",
+        "senderId": "koodi_test_user_bob",
+        "senderName": "Bob Patel",
+        "senderPhoto": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+        "text": "hi",
+        "type": "text",
+        "mediaUrl": "",
+        "mediaName": "",
+        "mediaSize": 0,
+        "status": "sent",
+        "readBy": [
+          "koodi_test_user_bob"
+        ],
+        "createdAt": "2026-11-09T17:23:18.425Z"
+      },
+      {
+        "id": "msg_1794245005394_2pgil",
+        "chatId": "koodi_test_user_alice_koodi_test_user_bob",
+        "senderId": "koodi_test_user_alice",
+        "senderName": "Alice Sharma",
+        "senderPhoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150",
+        "text": "hello",
+        "type": "text",
+        "mediaUrl": "",
+        "mediaName": "",
+        "mediaSize": 0,
+        "status": "sent",
+        "readBy": [
+          "koodi_test_user_alice"
+        ],
+        "createdAt": "2026-11-09T17:23:25.394Z"
+      },
+      {
+        "id": "msg_1794245015402_rvp7p",
+        "chatId": "koodi_test_user_alice_koodi_test_user_bob",
+        "senderId": "koodi_test_user_bob",
+        "senderName": "Bob Patel",
+        "senderPhoto": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+        "text": "🤪",
+        "type": "text",
+        "mediaUrl": "",
+        "mediaName": "",
+        "mediaSize": 0,
+        "status": "sent",
+        "readBy": [
+          "koodi_test_user_bob"
+        ],
+        "createdAt": "2026-11-09T17:23:35.402Z"
+      }
+    ]
+  }
+}
